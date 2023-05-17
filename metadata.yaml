@@ -1,0 +1,35 @@
+_repo: Botanical-features-of-the-Algerian-Sahara_70581
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cannon, William Austin
+    alias: Cannon, W. A. (William Austin)
+    birthdate: 1870
+    deathdate: 1958
+    gutenberg_agent_id: '55804'
+    url: http://www.gutenberg.org/2009/agents/55804
+description: ''
+gutenberg_issued: '2023-04-18'
+identifiers:
+  gutenberg: '70581'
+  lccn: '13017680'
+language: en
+pgterms:marc904: https://archive.org/details/botanicalfeature0000will
+pgterms:marc905: 20230402230329cannon
+pgterms:marc906: '1913'
+pgterms:marc907: US
+production_note: Galo Flordelis (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited States :$bCarnegie Institution of Washington, $c1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Carnegie Institution of Washington publication no. 178
+subjects:
+- !lcsh 'Desert plants -- Sahara'
+- !lcsh 'Desert plants -- Algeria'
+- !lcsh 'Roots (Botany)'
+- !lcc 'QK'
+- GITenberg
+title: Botanical features of the Algerian Sahara
+url: http://www.gutenberg.org/ebooks/70581
